@@ -1,0 +1,25 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+
+# Excel temporary files
+~$*
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Project documentation and supplementary files
+Project.docx
+*.xlsx
