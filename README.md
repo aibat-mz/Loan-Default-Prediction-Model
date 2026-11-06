@@ -59,7 +59,7 @@ Class imbalance is addressed using class weights or `scale_pos_weight`, dependin
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
    ```
 
-4. Place `train_data.csv` and `valid_data.csv` in the project directory, if you have permission to access them.
+4. Place `train_data.csv` and `valid_data.csv` in the project directory.
 5. Launch Jupyter Notebook and open `loan_delequency_prediction.ipynb.`.
 
    ```bash
