@@ -1,4 +1,4 @@
-# 📊 Loan Delinquency Prediction (Credit Risk Modeling)
+# 📊 Loan Delinquency Prediction
 
 A machine learning project that predicts whether a borrower will become seriously delinquent on a loan (90+ days past due) within a 12-month period. The task is framed as a binary classification problem and focuses on estimating credit risk from borrower and credit-history features.
 
@@ -43,7 +43,7 @@ Class imbalance is addressed using class weights or `scale_pos_weight`, dependin
 
 ```text
 .
-├── Aibat_Muzarap_Final_Project.ipynb   # EDA, preprocessing, model training and evaluation
+├── loan_delequency_prediction.ipynb..ipynb   # EDA, preprocessing, model training and evaluation
 ├── train_data.csv                      # Training dataset (not committed)
 ├── valid_data.csv                      # Validation dataset (not committed)
 └── README.md
@@ -60,7 +60,7 @@ Class imbalance is addressed using class weights or `scale_pos_weight`, dependin
    ```
 
 4. Place `train_data.csv` and `valid_data.csv` in the project directory, if you have permission to access them.
-5. Launch Jupyter Notebook and open `Aibat_Muzarap_Final_Project.ipynb`.
+5. Launch Jupyter Notebook and open `loan_delequency_prediction.ipynb.`.
 
    ```bash
    jupyter notebook
